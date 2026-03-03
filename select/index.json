@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Walk Thru Fire",
+  "base_artist": "Vicetone",
+  "createdAt": "2026-03-03T14:02:42.046638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone feat. MERŌN",
+      "has_synced": true,
+      "path": "select/01_Walk_Thru_Fire_Vicetone_feat._MERŌN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone feat. Meron Ryan",
+      "has_synced": true,
+      "path": "select/02_Walk_Thru_Fire_Vicetone_feat._Meron_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/03_Walk_Thru_Fire_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/04_Walk_Thru_Fire_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone feat. Meron Ryan",
+      "has_synced": true,
+      "path": "select/05_Walk_Thru_Fire_Vicetone_feat._Meron_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vicetone - Walk Thru Fire (Official Video) ft. Meron Ryan",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/06_Vicetone_-_Walk_Thru_Fire_(Official_Video)_ft._Meron_Ryan_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/07_Walk_Thru_Fire_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Walk Thru Fire (feat. Meron Ryan)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/08_Walk_Thru_Fire_(feat._Meron_Ryan)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Walk Thru Fire (feat. Meron Ryan)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/09_Walk_Thru_Fire_(feat._Meron_Ryan)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Walk Thru Fire (Sped Up)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/10_Walk_Thru_Fire_(Sped_Up)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/11_Walk_Thru_Fire_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone, MERON",
+      "has_synced": true,
+      "path": "select/12_Walk_Thru_Fire_Vicetone,_MERON.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone ft. Meron Ryan",
+      "has_synced": true,
+      "path": "select/13_Walk_Thru_Fire_Vicetone_ft._Meron_Ryan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walk Thru Fire",
+      "artist": "Vicetone, Meron Ryan",
+      "has_synced": false,
+      "path": "select/pl_01_Walk_Thru_Fire_Vicetone,_Meron_Ryan.txt"
+    }
+  ]
+}
